@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- :telescope: I’m working as a AEM/SDL Team lead in Schneider Electric and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a AEM/SDL Team lead in [Schneider Electric](https://www.se.com/ww/en/) and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring new frameworks, tools and integrations.
 
 - :zap: In my free time, ... we're developers, free time? :unamused:
 
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/juanfgr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
