@@ -37,3 +37,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+<div>
+  <a href=" https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
+    <img src="https://github.com/juanFGR/juanFGR/icons/github-foundations.png" title="GitHub" alt="GitHub" width="160" height="160"/>
+  </a>
+    
+ 
+</div>
