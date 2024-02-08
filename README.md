@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </div>
 <div>
   <a href=" https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
-    <img src="https://github.com/juanFGR/juanFGR/icons/github-foundations.png" title="GitHub" alt="GitHub" width="160" height="160"/>
+    <img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/>
   </a>
     
  
