@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 #### :hammer_and_wrench: GitHub Certifications :
 <div>
-  <a href=" https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
+  <a href="https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
     <img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/>
   </a>
     
