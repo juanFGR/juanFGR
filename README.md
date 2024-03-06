@@ -43,6 +43,9 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
     <img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/>
   </a>
+  <a href="https://www.credly.com/badges/ea0e3ad1-16fc-4a4b-bcee-a70d0f327f89">
+    <img src="./icons/github-admin.png" title="GitHub Admin" alt="GitHub Admin" width="80" height="80"/>
+  </a>
     
  
 </div>
