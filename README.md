@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/>
   </a>
   <a href="https://www.credly.com/badges/ea0e3ad1-16fc-4a4b-bcee-a70d0f327f89">
-    <img src="./icons/github-admin.png" title="GitHub Admin" alt="GitHub Admin" width="80" height="80"/>
+    <img src="./icons/github-administration.png" title="GitHub Admin" alt="GitHub Admin" width="80" height="80"/>
   </a>
     
  
