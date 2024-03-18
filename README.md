@@ -40,18 +40,10 @@ Here are some ideas to get you started:
 
 #### :hammer_and_wrench: GitHub Certifications :
 <div>
-  <a href="https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url">
-    <img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/ea0e3ad1-16fc-4a4b-bcee-a70d0f327f89">
-    <img src="./icons/github-administration.png" title="GitHub Admin" alt="GitHub Admin" width="80" height="80"/>
-  </a>
-    <a href="https://www.credly.com/badges/6e2bc702-0573-430f-80fa-e29666f54431">
-    <img src="./icons/github-actions.png" title="GitHub Actions" alt="GitHub Actions" width="80" height="80"/>
-  </a>
-  <a href="https://www.credly.com/badges/759b5e35-5546-4b58-8952-7494a0d6dae3/public_url">
-    <img src="./icons/github-advance-security.png" title="GitHub Security" alt="GitHub Security" width="80" height="80"/>
-  </a>
+  <a href="https://www.credly.com/badges/c395899b-9475-4d7a-86bd-408cd264b962/public_url"><img src="./icons/github-foundations.png" title="GitHub" alt="GitHub" width="80" height="80"/></a>
+  <a href="https://www.credly.com/badges/ea0e3ad1-16fc-4a4b-bcee-a70d0f327f89"><img src="./icons/github-administration.png" title="GitHub Admin" alt="GitHub Admin" width="80" height="80"/></a>
+    <a href="https://www.credly.com/badges/6e2bc702-0573-430f-80fa-e29666f54431"><img src="./icons/github-actions.png" title="GitHub Actions" alt="GitHub Actions" width="80" height="80"/></a>
+  <a href="https://www.credly.com/badges/759b5e35-5546-4b58-8952-7494a0d6dae3/public_url"><img src="./icons/github-advanced-security.png" title="GitHub Security" alt="GitHub Security" width="80" height="80"/></a>
     
  
 </div>
